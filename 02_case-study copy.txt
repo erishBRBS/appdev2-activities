@@ -1,0 +1,50 @@
+These are my suggestions for the areas where improvements are needed.
+
+1. Project Planning
+    Issues:
+    - Incomplete tasks close to the deadline
+    Suggestions:
+    - Break the project into the smaller tasks with clear deadlines
+    - Assign tasks to the specific members or team that are capable to complete it.
+    - Do daily stand up meetings to track the progress of task or project
+
+2. Bug Management
+    Issues:
+    - Unresolved bugs nearing the deadline.
+    Suggestions:
+    - Identify and document the bugs early as possible
+    - Prioritize bugs by its severity
+    - Allocate time specifically for bug fixing
+
+3. Testing Processe
+    Issues:
+    - Testing has not started yet.
+    Suggestions:
+    - Implement continuous testing throughout the project.
+    - Start testing early in the development process.
+    - Use automated testing tools.
+
+4. Communication
+    Issues:
+    - Due to the issues currently experiencing, there is a possiblity of communication gaps 
+      between the working teams.
+    Suggestions:
+    - Hold daily stand-up meetings.
+    - Use collaboration tools like Slack, Trello or anything that developer team prefered to use
+    - Gather regular feedback from team members.
+
+5. Risk Management
+    Issues:
+    - Lack of proactive risk management.
+    Suggestions:
+    - Conduct regular risk assessments.
+    - Develop plans to mitigate identified risks.
+    - Build flexibility into the schedule for unforeseen issues.
+
+
+In conclusion, better planning, 
+               continuous testing, 
+               effective communication, 
+               and proactive risk management 
+               can help ensure timely project delivery and high-quality outcomes.
+
